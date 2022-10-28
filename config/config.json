@@ -1,0 +1,10 @@
+{
+    "proxies": "socks4",
+    "thread": "200",
+
+    "webhook": {
+        "url": "ton webhook",
+        "username": "LA PEOFESIE",
+        "avatar": "lien image en discordapp"
+    }
+}
